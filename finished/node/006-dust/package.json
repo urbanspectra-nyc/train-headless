@@ -11,6 +11,6 @@
     "gulp": "~3.8.0",
     "gulp-dust" : "~1.0.1",
     "gulp-wrap" : "0.3.0",
-    "dustjs-linkedin" : "~2.4.1"
+    "dustjs-linkedin" : "~2.7.5"
   }
 }
