@@ -7,7 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "express" : "~4.8.4",
-    "request" : "~2.42.0",
+    "request" : "~2.88.2",
     "gulp": "~3.8.0",
     "gulp-dust" : "~1.0.1",
     "gulp-wrap" : "0.3.0",
