@@ -7,6 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "express" : "~4.8.4",
-    "request" : "2.42.0"
+    "request" : "2.88.2"
   }
 }
