@@ -6,7 +6,7 @@
   "author": "Matthew Grill",
   "license": "ISC",
   "dependencies": {
-    "express" : "~4.8.4",
+    "express" : "~4.21.0",
     "request" : "~2.42.0",
     "gulp": "~3.8.0",
     "gulp-dust" : "~1.0.1",
